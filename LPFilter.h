@@ -13,4 +13,4 @@ class LPFilter : public LTIFilter
 {
 public:
 	LPFilter(float fc, float fs);
-}
+};
